@@ -18,7 +18,6 @@ Um cirurgião dentista possui uma agenda disponível para atendimento e precisa 
 | Isabela Fernandes | 65 min |
 | Lucas Santos | 85 min |
 | Beatriz Almeida | 75 min |
-| Matheus Costa | 90 min |
  
 **Regras**
 
